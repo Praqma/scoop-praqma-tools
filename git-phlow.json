@@ -2,13 +2,13 @@
   "extract_dir": "", 
   "bin": "git-phlow.exe", 
   "depends": "git", 
-  "version": "2.3.2", 
-  "hash": "4b23c8e5601ed896152046d3e1db4ce4bf51917d3ed69b38ab21c5d721d691a0", 
+  "version": "2.3.6", 
+  "hash": "8c9136f6c67d3c61f7e4b933db68d7b0512aa938418520d82c3767883c6616a9", 
   "license": "mit", 
-  "url": "https://github.com/Praqma/git-phlow/releases/download/v2.3.2/git-phlow-2.3.2-windows-amd64.zip", 
+  "url": "https://github.com/Praqma/git-phlow/releases/download/v2.3.6/git-phlow-2.3.6-windows-amd64.zip", 
   "notes": "type 'git phlow' for help", 
   "homepage": "https://github.com/praqma/git-phlow", 
   "autoupdate": {
-    "url": "https://github.com/Praqma/git-phlow/releases/download/v2.3.2/git-phlow-2.3.2-windows-amd64.zip"
+    "url": "https://github.com/Praqma/git-phlow/releases/download/v2.3.6/git-phlow-2.3.6-windows-amd64.zip"
   }
 }
